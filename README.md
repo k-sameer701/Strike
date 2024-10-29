@@ -4,8 +4,8 @@
     <h3>A fun, interactive Tic-Tac-Toe game for Android devices! This game is built entirely with Kotlin and Jetpack Compose, offering a smooth, modern UI experience. Play against a friend locally and enjoy a classic game with a refreshed design on your Android device.</h3>
 </div>
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/k-sameer701/SingleFork)
-![GitHub all releases](https://img.shields.io/github/downloads/k-sameer701/SingleFork/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/k-sameer701/Strike)
+![GitHub all releases](https://img.shields.io/github/downloads/k-sameer701/Strike/total)
 
 ## Table of Contents
 
@@ -28,14 +28,13 @@
 
 <div align="center">
     <img height="600px" src="https://github.com/k-sameer701/Strike/blob/master/Screenshots/Screenshot.png" />
-    
 </div>
 
 ## Installation
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
-    height="80">](https://github.com/k-sameer701/SingleFork/releases/latest)
+    height="80">](https://github.com/k-sameer701/Strike/releases/latest)
 
 
 1. Clone the repository:

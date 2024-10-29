@@ -74,7 +74,6 @@ fun TicTacToeScreen(
         ){
             Text(text = "Reset Game", fontSize = 32.sp)
         }
-
     }
 }
 

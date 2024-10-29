@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/k-sameer701/SingleFork/blob/master/Screenshots/SingleFork.png" width="145" height="145" style="display: block; margin: 0 auto"/>
+    <img src="https://github.com/k-sameer701/Strike/blob/master/Screenshots/Strike.png" width="145" height="145" style="display: block; margin: 0 auto"/>
     <h1>Strike</h1>
     <h3>A fun, interactive Tic-Tac-Toe game for Android devices! This game is built entirely with Kotlin and Jetpack Compose, offering a smooth, modern UI experience. Play against a friend locally and enjoy a classic game with a refreshed design on your Android device.</h3>
 </div>
@@ -27,8 +27,8 @@
 ## Screenshots
 
 <div align="center">
-    <img height="600px" src="https://github.com/k-sameer701/SingleFork/blob/master/Screenshots/DarkTheme.png" />
-    <img height="600px" src="https://github.com/k-sameer701/SingleFork/blob/master/Screenshots/LightTheme.png" />
+    <img height="600px" src="https://github.com/k-sameer701/Strike/blob/master/Screenshots/Screenshot.png" />
+    
 </div>
 
 ## Installation
@@ -46,7 +46,7 @@
 3. Build the project to download all dependencies.
 4. Run the app on an emulator or a physical device.
 
-## How to Play
+## Usage
 
 - Launch the game and tap on any square to start.
 - Alternate turns between "X" and "O" by tapping on available cells.
@@ -63,7 +63,7 @@ This project is licensed under the [GPL-3 License](LICENSE).
     <img src="https://github.com/k-sameer701/k-sameer701.github.io/blob/main/img/Profilees.jpg" width="150" height="150" style="border-radius: 30%; display: block; margin: 0 auto"/>
     <h3><a href="https://github.com/k-sameer701">k-sameer701</a></h3>
         <br/>
-        <p>Thank you for using <strong>Strike!</strong> Get to know everything about cuisines with <strong>Single Fork</strong>.</p>
+        <p>Thank you for using <strong>Strike!</strong>.</p>
 </div>
 
 <br/>
